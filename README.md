@@ -119,15 +119,6 @@ The application features a clean two-panel layout:
 - Reporting and analytics dashboard
 - Multi-user support with authentication
 
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
-
-## Author
-
-**Adi Rajendra Maitre**  
-*B.Tech IT Student*  
-
 Connect with me:
 - Portfolio: [adimaitre.pages.dev](https://adimaitre.pages.dev)
 - LinkedIn: [linkedin.com/in/adimaitre](https://linkedin.com/in/adimaitre)
